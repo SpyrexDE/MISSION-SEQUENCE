@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Result
+comment1.params=enemy
+comment1.target=Result(Enemy)
+comment2.params=i
+comment2.target=void\ optionSelected(int)
+numComments=3

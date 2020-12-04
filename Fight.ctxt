@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=
+comment1.target=Fight()
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=i
+comment3.target=void\ intTyped(int)
+comment4.params=
+comment4.target=Enemy\ getNewRandomEnemy()
+comment5.params=
+comment5.target=java.util.List\ getNewSquence()
+numComments=6
