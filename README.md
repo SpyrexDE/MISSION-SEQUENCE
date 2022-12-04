@@ -1,2 +1,2 @@
 # MISSION-SEQUENCE
-A BlueJ project
+A sequence guessing game made with BlueJ
